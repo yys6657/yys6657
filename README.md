@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=YoungSu%20Yang&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=YoungSu&fontSize=30)  
 
 # My Skills
 
@@ -9,7 +9,7 @@
 ![scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white) 
+
 
 ### OS
 ![CentOS7](https://img.shields.io/badge/CentOS7-262577?style=flat&logo=CentOS&logoColor=white)
